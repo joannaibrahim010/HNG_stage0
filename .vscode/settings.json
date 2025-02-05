@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "diffEditor.maxComputationTime": 0,
+    "diffEditor.experimental.showMoves": true,
+    "diffEditor.useInlineViewWhenSpaceIsLimited": false,
+    "git.confirmSync": false,
+    "window.zoomLevel": 1,
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "github.copilot.editor.enableAutoCompletions": true,
+    "githubPullRequests.pullBranch": "never",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.openRepositoryInParentFolders": "never"
+}
